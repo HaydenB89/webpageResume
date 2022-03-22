@@ -1,0 +1,10 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+}
+table {width: 100%;}
+table, th, td { border: 1px solid gray; border-collapse: collapse;}
+th, td { padding: 5px 15px;}
+th {background-color: antiquewhite; font-style: italic; font-size: 1.25em;}
+span {font-size: 1.25em; font-weight: bold;}
+#MAX {color: red; font-weight: bolder;}
