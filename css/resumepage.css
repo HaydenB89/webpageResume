@@ -3,6 +3,7 @@ body {
     font-size: 20pt;
 }
 h1 {color: rgb(158, 197, 201);}
+h4 {font-weight: lighter;}
 table {margin-left: 8px; margin-right: 20px;}
 th, td { border: 1px solid gray; border-collapse: collapse;}
 th, td { padding: 5px 15px;}
